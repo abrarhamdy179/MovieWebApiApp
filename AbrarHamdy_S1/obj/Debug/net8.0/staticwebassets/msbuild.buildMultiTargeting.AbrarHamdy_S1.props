@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AbrarHamdy_S1.props" />
+</Project>

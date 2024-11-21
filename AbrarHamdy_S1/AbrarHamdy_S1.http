@@ -1,0 +1,6 @@
+@AbrarHamdy_S1_HostAddress = http://localhost:5186
+
+GET {{AbrarHamdy_S1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
